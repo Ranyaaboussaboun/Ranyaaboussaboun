@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 
 - 📫 How to reach me: linkedin : rania aboussaboun / facebook : ranya aboussaboun
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data engineer from Tunisia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
