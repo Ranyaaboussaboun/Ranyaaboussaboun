@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on GANS
-- 👯 I’m looking to collaborate on a DL/ML project
-- 💬 Ask me about anything 
-- 📫 How to reach me: linkedin : rania aboussaboun / facebook : ranya aboussaboun
 
-<h3 align="center">A passionate Data engineering student from Tunisia</h3>
+- 👯 I’m looking to collaborate on a Data engineering project
+- 💬 Ask me about anything 
+- 📫 How to reach me: linkedin : rania aboussaboun 
+
+<h3 align="center">A passionate Data science engineer </h3>
 
 <p align="left">
 </p>
