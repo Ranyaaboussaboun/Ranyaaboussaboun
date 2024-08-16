@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-Here are some ideas to get you started:
-
 - 👯 I’m looking to collaborate on Data Engineering/analytics projects
 - 💬 Feel free to ask me anything
 - 📫 Reach me on LinkedIn: [Rania Aboussaboun](https://www.linkedin.com/in/rania-aboussaboun)
